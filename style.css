@@ -1,0 +1,52 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.exprience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.one {
+    font-size: 70px;
+    text-align: center;
+}
+
+.common {
+    display: flex;
+}
+
+.common-left {
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 0 100px;
+    padding: 30px 100px;
+    border-left: 10px solid #C63722;
+}
+
+.common-left h4 {
+    color: orange;
+}
+
+.common-right {
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 0 100px;
+    padding: 30px 100px;
+    border-left: 8px solid orange;
+}
+
+.common-right h4 {
+    color: orange;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+span {
+    font-size: 50px;
+    color: orangered;
+}
